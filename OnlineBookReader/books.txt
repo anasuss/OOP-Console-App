@@ -1,0 +1,11 @@
+144,C++,AnasZahrouni,5,A C++,B C++,C C++,D C++,E
+14444,Algorithms,AnasZahrouni,4,Binary search,Graph,Trees,Dynamic programming
+zadnaz,dazda,dazda,1,dazd
+azd,zda,daz,1,dz
+za,daz,dza,1,dza
+sz,dza,za,1,d
+anas,anas,anas,1,anas
+kaka,kaka,kaka,1,kaka
+zs,dza,dza,1,dazdaz
+dza,dza,daz,1,daz
+dzad,daz,daz,1,daz

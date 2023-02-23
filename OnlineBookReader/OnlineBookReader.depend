@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1675608942 source:c:\users\anasz\desktop\onlinebookreader\main.cpp
+	"OnlineReaderSystem.h"
+
+1674924656 source:c:\users\anasz\desktop\onlinebookreader\src\upa.cpp
+	"Upa.h"
+
+1674924656 c:\users\anasz\desktop\onlinebookreader\include\upa.h
+
+1675608322 source:c:\users\anasz\desktop\onlinebookreader\src\book.cpp
+	"Book.h"
+	<vector>
+
+1675608512 source:c:\users\anasz\desktop\onlinebookreader\src\filehandler.cpp
+	"fileHandler.h"
+
+1675515311 source:c:\users\anasz\desktop\onlinebookreader\src\phrasehandler.cpp
+	"PhraseHandler.h"
+
+1675605617 source:c:\users\anasz\desktop\onlinebookreader\src\updatedatabase.cpp
+	<bits/stdc++.h>
+	"UpdateDataBase.h"
+	"Book.h"
+	"Admin.h"
+	"User.h"
+	"fileHandler.h"
+
+1675608075 source:c:\users\anasz\desktop\onlinebookreader\src\admin.cpp
+	"Admin.h"
+
+1675610016 source:c:\users\anasz\desktop\onlinebookreader\src\adminmanager.cpp
+	"AdminManager.h"
+	"fileHandler.h"
+	"Interface.h"
+	"vector"
+
+1675606511 source:c:\users\anasz\desktop\onlinebookreader\src\user.cpp
+	"User.h"
+	"BookManger.h"
+
+1675608617 source:c:\users\anasz\desktop\onlinebookreader\src\person.cpp
+	"Person.h"
+
+1675610016 source:c:\users\anasz\desktop\onlinebookreader\src\usermanager.cpp
+	"UserManager.h"
+	"Interface.h"
+	"UpdateDataBase.h"
+	"fileHandler.h"
+
+1675601722 c:\users\anasz\desktop\onlinebookreader\include\updatedatabase.h
+
+1675608266 c:\users\anasz\desktop\onlinebookreader\include\book.h
+	<bits/stdc++.h>
+	"PhraseHandler.h"
+
+1675515311 c:\users\anasz\desktop\onlinebookreader\include\phrasehandler.h
+	<bits/stdc++.h>
+
+1675608075 c:\users\anasz\desktop\onlinebookreader\include\admin.h
+	<Person.h>
+	"Book.h"
+	"BookManger.h"
+
+1675608598 c:\users\anasz\desktop\onlinebookreader\include\person.h
+	<bits/stdc++.h>
+	<PhraseHandler.h>
+	"UpdateDataBase.h"
+
+1675607292 c:\users\anasz\desktop\onlinebookreader\include\user.h
+	<Person.h>
+	"UpdateDataBase.h"
+	<bits/stdc++.h>
+	"Book.h"
+	"BookManger.h"
+
+1675516359 c:\users\anasz\desktop\onlinebookreader\include\filehandler.h
+	<bits/stdc++.h>
+
+1675608075 c:\users\anasz\desktop\onlinebookreader\include\adminmanager.h
+	<map>
+	"Admin.h"
+
+1675033530 source:c:\users\anasz\desktop\onlinebookreader\src\interface.cpp
+	"Interface.h"
+	<bits/stdc++.h>
+
+1675609397 c:\users\anasz\desktop\onlinebookreader\include\interface.h
+	<vector>
+	<string>
+
+1675607217 c:\users\anasz\desktop\onlinebookreader\include\usermanager.h
+	<User.h>
+
+1675197374 c:\users\anasz\desktop\onlinebookreader\include\bookmanager.h
+	<bits/stdc++.h>
+	"Book.h"
+	"User.h"
+
+1675196803 source:c:\users\anasz\desktop\onlinebookreader\src\bookmanager.cpp
+	"BookManager.h"
+	"Book.h"
+	"UpdateDataBase.h"
+	"Interface.h"
+
+1675610016 source:c:\users\anasz\desktop\onlinebookreader\src\bookmanger.cpp
+	"BookManger.h"
+	"Interface.h"
+	<ctime>
+	"fileHandler.h"
+
+1675607292 c:\users\anasz\desktop\onlinebookreader\include\bookmanger.h
+	"Book.h"
+
+1675610016 c:\users\anasz\desktop\onlinebookreader\include\onlinereadersystem.h
+	"AdminManager.h"
+	"UserManager.h"
+	"vector"
+
+1675609851 source:c:\users\anasz\desktop\onlinebookreader\src\onlinereadersystem.cpp
+	"OnlineReaderSystem.h"
+	"Interface.h"
+
